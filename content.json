@@ -1,0 +1,67 @@
+﻿{   
+    "metaData": {
+        "siteTitle": "A Digital Agency in Manchester - Code Computerlove",
+        "siteAuthor": "Code Computerlove",
+        "siteDescription": "Code Computerlove is an award winning digital agency based in Manchester. Offering a fully integrated digital marketing approach"
+    },
+    "homepage": {
+        "listPageMissionStatement": "Our Philosophy",
+        "listPageTitle": "To Make Every day Better",
+        "listPageIntroHtml": "<p>You're looking at the first page of the new Code Computerlove website.</p><p>Next week we'll add more. And the week after even more and the week after that even more.</p><p>Because that's how we work, constantly changing and updating based on what we learn - what we learn from you - our clients, future clients, friends and future computerlovers.</p><p>Read more about how we are changing on <a href=\"/blog\">our blog</a></p>",
+        "articleTitle": "We are a digital studio, working with global brands to evolve their digital products, services and capabilities.",
+        "articleCopy":"<p>We blend the principles of Human Centred Design with the methodologies of Lean Engineering to create value for our clients and for their customers, based on customer empathy and insight and fast iterative prototyping and release.</p><p>Our goal is to make things better, whether we are collaborating with our partners to use technology to solve everyday problems or answering the big marketing questions of the day.</p><p>We are advisors to Asda, Center Parcs, HMV, Hillarys, Oxfam, First Group, Brother International, Chester Zoo and Amnesty International.</p><p>If you like working with smart, no-nonsense people then Code Computerlove is the studio for you.</p><p>Contact us at <a href=\"mailto:hello@codecomputerlove.com\">hello@codecomputerlove.com</a> or on <a href=\"tel:01612762080\" class=\"rTapNumber12129\">0161 276 2080</a>.</p>"
+    },
+    "styleguide": {
+        "metaData":"Code Computerlove Styleguide",
+        "listPageTitle": "Styleguide",
+        "articleAuthors": [{"Name": "Andrew Brandwood"}],
+        "articleDate": "28.01.2016",
+        "articleDateFormatted": "20 January 2016",
+        "blogContent": [{
+            "Id": "0",
+            "Title": "Beginners guide to Arduino Physcial Computing Ting",
+            "ArticleDate": "28.01.2016",
+            "Url": "/blog/2010/03/beginners-guide-to-arduino-and-physcial-computing/",
+            "Authors": [{"Name": "Andrew Brandwood"}],
+            "Intro": "‘Robots that fetch you tea, you say???’ That was the response of most people when myself and Ste Brennan mentioned that we were going on a physical computing course..."
+          }]
+    },
+    "siteContact": {
+    	"address": {
+    		"name":"Code Computerlove Ltd",
+    		"addr1":"Sevendale House",
+    		"addr2":"Dale St",
+    		"addr3":"Manchester",
+    		"postcode":"M1 1JB"
+    	},
+    	"telephone": "+44 (0)161 276 2080",
+    	"email": "hello@codecomputerlove.com",
+        "url":  "http://www.codecomputerlove.com",
+        "urlPretty": "codecomputerlove.com",
+    	"social": {
+    		"twitter": "computerlovers"
+    	}
+
+    },
+    "blog": {
+        "metaData": {
+            "siteTitle": "Code Computerlove Blog",
+            "siteDescription": "Digital blog with posts on agency news and expert digital insights into categories including content marketing and UX."
+        },
+        "listPageTitle": "Latest Post",
+        "theme": "blog"
+    },
+    "jobs": {
+        "metaData": {
+            "siteTitle": "Jobs &amp; Recruitment - Code Computerlove, Manchester, UK",
+            "siteDescription": "Looking for a job at a digital agency in Manchester? Code Computerlove is an award winning digital agency based in Manchester, UK."
+        },
+        "listPageTitle": "Work with us",
+        "listPageIntroHtml": "<p><strong>We genuinely do things differently here.  We value our people above all else – we know the happier they are, the better our work will be – so we make sure that everyone here feels supported, challenged and inspired.</strong></p><p>Our collaborative studio environment encourages talent and brilliance.</p><p>If you're intelligent, imaginative, downright geeky about digital and looking for a fresh new start, you'll fit right in. If you think you're perfect for us, then please get in touch (directly, not via a recruitment agency). Our available vacancies are listed below.</p>",
+        "listPageOutroHtml": "<p>We’re always on the lookout for talented people to join the team. If you can’t see a role that suits your skills just drop us an email at <a href=\"mailto:jobs@codecomputerlove.com\">jobs@codecomputerlove.com</a> and we can keep you in mind for future roles</p>",
+        "articlePageIntro": "",
+        "articlePageOutro": "<h2>Interested?</h2><p>Press the button below to send us an email. Please include your CV and covering letter, and don’t forget to include links to your portfolio and/or examples of your work (either commercial or personal).</p>",
+        "email": "jobs@codecomputerlove.com",
+        "theme": "jobs"
+    }
+}
