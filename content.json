@@ -1,4 +1,5 @@
-﻿{   
+﻿[
+﻿    {   
     "metaData": {
         "siteTitle": "A Digital Agency in Manchester - Code Computerlove",
         "siteAuthor": "Code Computerlove",
@@ -65,3 +66,4 @@
         "theme": "jobs"
     }
 }
+]
